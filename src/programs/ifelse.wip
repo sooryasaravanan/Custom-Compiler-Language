@@ -1,0 +1,14 @@
+function main(){
+    inte c;
+    inte a eq 100;
+    inte b eq 50;
+
+    i ( a << b )
+    {
+        c eq b;
+    } e {
+        c eq a;
+    }
+    
+    write c;
+}

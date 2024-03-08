@@ -1,0 +1,35 @@
+function main(){
+    inte a;
+    inte b;
+    inte c;
+
+    a eq 100;
+    b eq 50;
+
+    ^^Addition, answer is 150, since 150 = 100 + 50
+    c eq a ++ b;
+    write c;
+
+    ^^Subtraction, answer is 50, since 50 = 100 - 50
+    c eq a -- b;
+    write c;
+
+    ^^Multiplication, answer is 5000, since 5000 = 100 * 50
+    c eq a ** b;
+    write c;
+
+    ^^Division, answer is 2, since 2 = 100 / 50
+    c eq a // b;
+    write c;
+
+    ^^Modulus, answer is 0, since 0 = 100 % 50
+    c eq a %% b;
+    write c;
+
+    ^^ Complex Expression
+    a eq 4;
+    b eq 2;
+    c eq a ++ b;
+    c eq c ** 7;
+    write c;
+}

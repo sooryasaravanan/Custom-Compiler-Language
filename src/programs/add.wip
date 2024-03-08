@@ -1,0 +1,10 @@
+function main(){
+    inte a;
+    inte b;
+    inte c;
+
+    a eq 100;
+    b eq 50;
+    c eq a ++ b;
+    write c;
+}

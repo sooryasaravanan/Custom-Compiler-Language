@@ -1,0 +1,17 @@
+function main(){
+    inte m eq 0;
+    inte n eq 0;
+    inte o eq 0;
+
+    read n;
+    i(n >>= 100){
+        write n;
+    }
+
+    e{
+        m eq n--1;
+        write m;
+    }
+
+    write o;
+}

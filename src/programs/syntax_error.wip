@@ -1,0 +1,8 @@
+function main(inte x) 
+{ 
+    x eq 0;
+    W(x EE 8)
+    {
+        x eq x = 1; ^^syntax errer = should be eq
+    }
+}

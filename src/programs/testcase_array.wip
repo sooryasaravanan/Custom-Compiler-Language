@@ -1,0 +1,16 @@
+function main(){
+    inte arr a(20);
+    inte b eq 0;
+    inte c eq 0;
+
+    b eq 3;
+    c eq 5;
+
+    a(1) eq 100;
+    write a(1); ^^Should Print out 100
+
+    a(2) eq 200;
+    write a(2); ^^Should print out 200
+
+
+}

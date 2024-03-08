@@ -1,0 +1,11 @@
+function main()
+{
+    inte x eq 0;
+
+    W(x <<= 10){
+        i(x >> 3){
+            Br;
+        }
+        x eq x++1;
+    }
+}

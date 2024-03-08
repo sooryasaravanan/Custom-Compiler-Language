@@ -1,0 +1,7 @@
+function main()
+{
+    inte arr a(20);
+    b(1) eq 100;
+    write a(1); ^^Should Print out 100
+
+}

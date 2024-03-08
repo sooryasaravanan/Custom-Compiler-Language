@@ -1,0 +1,5 @@
+function main(){
+    inte a;
+    a eq 100;
+    write a;
+}

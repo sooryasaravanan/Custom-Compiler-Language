@@ -1,0 +1,26 @@
+function main(inte x, inte y, inte z) 
+{ 
+    x eq 8;
+
+    i( x EE 8)
+    {
+        y eq 6;
+        z eq 6;
+    } e {
+        y eq 7;
+        z eq 7;
+    }
+
+    W(x EE 8)
+    {
+        y eq 8;
+        z eq 8;
+        x eq z ++ 1;
+    }
+
+    i( x >> y)
+    {
+        z eq x;
+    }
+    
+}

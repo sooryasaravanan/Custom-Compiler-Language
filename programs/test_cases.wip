@@ -1,0 +1,18 @@
+^^Test case:
+inte a eq 0
+inte e (10)
+Inte a
+Inte b
+Inte c
+a eq 2++2
+b eq 2**2
+c eq 2--2
+c eq 2//2
+Write c
+^^comment
+Inte d
+Read d
+i d EE 1
+	Write d;
+i d NE 0
+	Write d;

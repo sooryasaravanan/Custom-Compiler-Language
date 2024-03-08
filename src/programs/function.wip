@@ -1,0 +1,33 @@
+function add(inte a, inte b)
+{
+    inte c;
+    c eq a ++ b;
+    ret c;
+}
+
+function mult(inte a, inte b)
+{
+    inte c;
+    c eq a ** b;
+    ret c;
+}
+
+function main(){
+    inte a eq 10;
+    inte b eq 10;
+    inte c;
+    inte d;
+
+    c eq add(a,b);
+    d eq mult(a,b);
+    
+    write c;
+    write d;
+}
+
+
+
+
+
+
+ 
